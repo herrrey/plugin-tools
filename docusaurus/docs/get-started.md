@@ -218,7 +218,7 @@ mage -l
 
 ### Run the Grafana server
 
-To launch the Grafana development server using Docker, run:
+To launch the Grafana development <a href="https://suraheyaseen.com/">Server</a> using Docker, run:
 
 ```shell
 docker compose up --build
